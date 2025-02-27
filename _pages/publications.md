@@ -12,6 +12,11 @@ Appointment Scheduling with Sequential Servers using Distributionally Robust Opt
 You Hui Goh (Nanyang Technological University), **Zihao Li** (Nanyang Technological University), Zhenzhen Yan (Nanyang Technological University). (alphabetical order)   
 Accepted by **Manufacturing & Service Operations Management**, 2025 (forthcoming).    
 
+Fair Division of Mixed Divisible and Indivisible Goods.    
+Xiaohui Bei (Nanyang Technological University), **Zihao Li**  (Nanyang Technological University), Jinyan Liu (Beijing Institute of Technology), Shengxin Liu (Nanyang Technological University), Xinhang Lu (Nanyang Technological University). (alphabetical order)    
+Accepted by **Artificial Intelligence**, Vol. 293, April 2021, 103436.    
+**Note**: Preliminary version is awarded **Outstanding Student Paper Award** at AAAI 2020.    
+
 
 
 Conference Paper
