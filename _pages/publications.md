@@ -65,17 +65,17 @@ Accepted by **38th Conference on Uncertainty in Artificial Intelligence** (UAI 2
 Working paper
 ======
 
-A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals and Departures
-([pdf](https://AnthonyWang14.github.io/files/main_OR.pdf))  
-with Zihao Li, Zhenzhen Yan.  
-Under Major Revision at **Operations Research**.  
-Preliminary version appeared at AAAI 2023.
+A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals and Departures.    
+**Zihao Li**  (Nanyang Technological University), Hao Wang (Nanyang Technological University), Zhenzhen Yan (Nanyang Technological University). (alphabetical order)      
+Under **Major Revision** at **Operations Research**.     
 
-Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals ([pdf](https://AnthonyWang14.github.io/files/samplebased.pdf))  
-with Zihao Li, Zhenzhen Yan.  
-Under Review at **Management Science**.
+Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals.      
+**Zihao Li**  (Nanyang Technological University), Hao Wang (Nanyang Technological University), Zhenzhen Yan (Nanyang Technological University). (alphabetical order)      
+arXiv preprint arXiv:2302.08234, 2023.       
 
-Online Stochastic Generalized Assignment Problem with Demand Learning
-([pdf](https://AnthonyWang14.github.io/files/demand_learning.pdf), [supplement](https://AnthonyWang14.github.io/files/supplement.pdf))  
-with Yanwen Li, Zihao Li, Limeng Liu, Zhenzhen Yan.  
-Under Review.
+On the Complexity of Maximizing Social Welfare within Fair Allocations of Indivisible Goods.    
+Xiaolin Bu (Shanghai Jiao Tong University), **Zihao Li**  (Nanyang Technological University), Shengxin Liu (Harbin Institute of Technology, Shenzhen), Jiaxin Song (Shanghai Jiao Tong University), Biaoshuai Tao (Shanghai Jiao Tong University). (alphabetical order)        
+arXiv preprint arXiv:2205.14296, 2022.        
+
+Online Stochastic Generalized Assignment Problem with Demand Learning.      
+Yanwen Li (Nanyang Technological University), **Zihao Li** (Nanyang Technological University), Limeng Liu (Nanyang Technological University), Hao Wang (Nanyang Technological University), Zhenzhen Yan (Nanyang Technological University). (alphabetical order)        
