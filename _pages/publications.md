@@ -8,9 +8,9 @@ author_profile: true
 Journal paper
 ======
 
-Appointment Scheduling with Sequential Servers using Distributionally Robust Optimization.
-You Hui Goh (Nanyang Technological University), **Zihao Li** (Nanyang Technological University), Zhenzhen Yan (Nanyang Technological University). (alphabetical order)
-Accepted by **Manufacturing & Service Operations Management**, 2025 (forthcoming).
+Appointment Scheduling with Sequential Servers using Distributionally Robust Optimization.   
+You Hui Goh (Nanyang Technological University), **Zihao Li** (Nanyang Technological University), Zhenzhen Yan (Nanyang Technological University). (alphabetical order)   
+Accepted by **Manufacturing & Service Operations Management**, 2025 (forthcoming).    
 
 
 
