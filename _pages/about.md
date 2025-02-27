@@ -11,4 +11,4 @@ I am a Research Fellow in Institute of Operations Research and Analytics (IORA),
 
 My research interests lie in online resource allocation and revenue management, including online matching and online generalized assignment problem. I am interested in the fairness and efficiency issue in fair division.
 
-Contact: [Email](mailto:thuneetenin@gmail.com) and [Email](mailto:zihao004@e.ntu.edu.sg).
+Contact: [thuneetenin@gmail.com](mailto:thuneetenin@gmail.com) and [zihao004@e.ntu.edu.sg](mailto:zihao004@e.ntu.edu.sg).
