@@ -11,6 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Zihao Li / Personal Homepage"
 title_separator          : "-"
+plugins                  : [jekyll-paginate, jekyll-sitemap]
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://zihaoli19.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
