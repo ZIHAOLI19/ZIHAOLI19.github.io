@@ -22,21 +22,45 @@ Accepted by **Artificial Intelligence**, Vol. 293, April 2021, 103436.
 Conference Paper
 ======
 
-Fully Online Matching with Stochastic Arrivals and Departures([pdf](https://ojs.aaai.org/index.php/AAAI/article/view/26417))  
-with Zihao Li, Zhenzhen Yan.  
-**AAAI2023**: AAAI Conference on Artificial Intelligence, 2023.
+Fair Division of Indivisible Goods with Comparison-Based Queries.    
+Xiaolin Bu (Shanghai Jiao Tong University), **Zihao Li** (Nanyang Technological University), Shengxin Liu (Harbin Institute of Technology, Shenzhen), Jiaxin Song (Shanghai Jiao Tong University), Biaoshuai Tao (Shanghai Jiao Tong University). (alphabetical order)    
+Accepted by the **20th Conference on Web and Internet Economics** (WINE 2024).    
 
-A Non-asymptotic Analysis for Re-solving Heuristic in online matching ([pdf](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13738), [video](https://www.youtube.com/watch?v=1q8gW6LJ68A&t=17s&ab_channel=POMSociety))  
-with Zhenzhen Yan, Xiaohui Bei.  
-**POMS**: Production and Operations Management, 31(8): 3096-3124. 2022.
+Best-of-Both-Worlds Fair Allocation of Indivisible and Mixed Goods.    
+Xiaolin Bu (Shanghai Jiao Tong University), **Zihao Li**  (Nanyang Technological University), Shengxin Liu (Harbin Institute of Technology, Shenzhen), Xinhang Lu (UNSW Sydney), Biaoshuai Tao (Shanghai Jiao Tong University). (alphabetical order)    
+Accepted by the **20th Conference on Web and Internet Economics** (WINE 2024).    
 
-Real-Time Driver-Request Assignment in Ridesourcing ([pdf](https://ojs.aaai.org/index.php/AAAI/article/view/20299))  
-with Xiaohui Bei.   
-**AAAI2022**: AAAI Conference on Artificial Intelligence, 2022.
+Allocating Mixed Goods with Customized Fairness and Indivisibility Ratio.    
+Bo Li (Department of Computing The Hong Kong Polytechnic University), **Zihao Li**  (Nanyang Technological University), Shengxin Liu (Harbin Institute of Technology, Shenzhen), Zekai Wu (Harbin Institute of Technology, Shenzhen). (alphabetical order)      
+Accepted as a full paper by the **33rd International Joint Conference on Artificial Intelligence** (IJCAI-24).    
 
-A unified framework for community detection and network representation learning ([pdf](https://arxiv.org/pdf/1611.06645.pdf))  
-with Cunchao Tu, Xiangtian Zeng, et al.  
-**TKDE**: IEEE Transactions on Knowledge and Data Engineering, 2018.
+A Complete Landscape for the Price of Envy-Freeness.    
+**Zihao Li**  (Nanyang Technological University), Shengxin Liu (Harbin Institute of Technology, Shenzhen), Xinhang Lu (UNSW Sydney), Biaoshuai Tao (Shanghai Jiao Tong University), Yichen Tao (University of Michigan). (alphabetical order)      
+Accepted as a full paper by **Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems** (AAMAS), 2024.    
+
+Fair Division with Allocator's Preference.    
+Xiaolin Bu (Shanghai Jiao Tong University), **Zihao Li**  (Nanyang Technological University), Shengxin Liu (Harbin Institute of Technology, Shenzhen), Jiaxin Song (Shanghai Jiao Tong University), Biaoshuai Tao (Shanghai Jiao Tong University). (alphabetical order)      
+Accepted as a full paper by **19th Conference on Web and Internet Economics** (WINE 2023).    
+
+Truthful Fair Mechanisms for Allocating Mixed Divisible and Indivisible Goods.    
+**Zihao Li**  (Nanyang Technological University), Shengxin Liu (Harbin Institute of Technology, Shenzhen), Xinhang Lu (UNSW Sydney), Biaoshuai Tao (Shanghai Jiao Tong University). (alphabetical order)    
+Accepted as a full paper by **Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence** (IJCAI-23).    
+
+Fully Online Matching with Stochastic Arrivals and Departures.    
+**Zihao Li**  (Nanyang Technological University), Hao Wang (Nanyang Technological University), Zhenzhen Yan (Nanyang Technological University). (alphabetical order)    
+Accepted as a full paper by **Thirty-Seventh AAAI Conference on Artificial Intelligence** (AAAI-23).      
+
+Fair Division with Prioritized Agents.    
+Xiaolin Bu (Shanghai Jiao Tong University), **Zihao Li**  (Nanyang Technological University), Shengxin Liu (Harbin Institute of Technology, Shenzhen), Jiaxin Song (Shanghai Jiao Tong University), Biaoshuai Tao (Shanghai Jiao Tong University). (alphabetical order)    
+Accepted as a full paper by **Thirty-Seventh AAAI Conference on Artificial Intelligence** (AAAI-23).    
+
+Fair and Efficient Multi-Resource Allocation for Cloud Computing.      
+Xiaohui Bei (Nanyang Technological University), **Zihao Li**  (Nanyang Technological University), Junjie Luo (Beijing Jiaotong University). (alphabetical order)      
+Accepted by The **18th Conference on Web and Internet Economics** (WINE 2022). Cham: Springer International Publishing, 2022: 169-186.      
+
+Proportional Allocation of Indivisible Resources under Ordinal and Uncertain Preferences.    
+**Zihao Li**  (Nanyang Technological University), Xiaohui Bei (Nanyang Technological University), Zhenzhen Yan (Nanyang Technological University).      
+Accepted by **38th Conference on Uncertainty in Artificial Intelligence** (UAI 2022). PMLR, 2022: 1148-1157.
 
 Working paper
 ======
