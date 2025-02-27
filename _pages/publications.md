@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+Journal paper
+======
+
+Appointment Scheduling with Sequential Servers using Distributionally Robust Optimization.
+You Hui Goh (Nanyang Technological University), **Zihao Li** (Nanyang Technological University), Zhenzhen Yan (Nanyang Technological University). (alphabetical order)\\
+Accepted by Manufacturing & Service Operations Management, 2025 (forthcoming).
+
+
+
+Conference Paper
+======
+
 Fully Online Matching with Stochastic Arrivals and Departures([pdf](https://ojs.aaai.org/index.php/AAAI/article/view/26417))  
 with Zihao Li, Zhenzhen Yan.  
 **AAAI2023**: AAAI Conference on Artificial Intelligence, 2023.
