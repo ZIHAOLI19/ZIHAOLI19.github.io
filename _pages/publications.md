@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Journal paper
+Journal Papers
 ======
 
 Appointment Scheduling with Sequential Servers using Distributionally Robust Optimization.   
@@ -19,7 +19,7 @@ Accepted by **Artificial Intelligence**, Vol. 293, April 2021, 103436.
 
 
 
-Conference Paper
+Conference Papers
 ======
 
 Fair Division of Indivisible Goods with Comparison-Based Queries.    
@@ -62,7 +62,7 @@ Proportional Allocation of Indivisible Resources under Ordinal and Uncertain Pre
 **Zihao Li**, Xiaohui Bei, Zhenzhen Yan.      
 Accepted by **38th Conference on Uncertainty in Artificial Intelligence** (UAI 2022). PMLR, 2022: 1148-1157.
 
-Working paper
+Working Papers
 ======
 
 A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals and Departures.    
