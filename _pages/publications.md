@@ -22,9 +22,9 @@ Accepted by **Artificial Intelligence**, Vol. 293, April 2021, 103436.
 Conference Papers
 ======
 
-Approximability Landscape of Welfare Maximization within Fair Allocations.
-Xiaolin Bu, **Zihao Li**, Shengxin Liu, Jiaxin Song, Biaoshuai Tao. (alphabetical order)  
-Accepted by the **Twenty-Sixth ACM Conference on Economics and Computation** (EC 2025).
+Approximability Landscape of Welfare Maximization within Fair Allocations.  
+Xiaolin Bu, **Zihao Li**, Shengxin Liu, Jiaxin Song, Biaoshuai Tao. (alphabetical order)    
+Accepted by the **Twenty-Sixth ACM Conference on Economics and Computation** (EC 2025).    
 
 Fair Division of Indivisible Goods with Comparison-Based Queries.    
 Xiaolin Bu, **Zihao Li**, Shengxin Liu, Jiaxin Song, Biaoshuai Tao. (alphabetical order)    
@@ -73,9 +73,9 @@ A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals
 **Zihao Li**, Hao Wang, Zhenzhen Yan. (alphabetical order)      
 Under **Minor Revision** at **Operations Research**.     
 
-Fair Division with Prioritized Agents.    
+Fair Division with Prioritized Agents.      
 Xiaolin Bu, **Zihao Li**, Shengxin Liu, Jiaxin Song, Biaoshuai Tao. (alphabetical order)    
-Under **Major Revision** at **Information and Computation**.
+Under **Major Revision** at **Information and Computation**.    
 
 Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals.      
 **Zihao Li**, Hao Wang, Zhenzhen Yan. (alphabetical order)      
