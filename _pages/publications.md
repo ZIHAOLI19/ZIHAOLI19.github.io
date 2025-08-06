@@ -73,6 +73,10 @@ A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals
 **Zihao Li**, Hao Wang, Zhenzhen Yan. (alphabetical order)      
 Under **Minor Revision** at **Operations Research**.     
 
+Fair and Efficient Multi-Resource Allocation for Cloud Computing.      
+Xiaohui Bei, **Zihao Li**, Junjie Luo. (alphabetical order)      
+Under **Minor Revision** at **Mathematics of Operations Research**.  
+
 Fair Division with Prioritized Agents.      
 Xiaolin Bu, **Zihao Li**, Shengxin Liu, Jiaxin Song, Biaoshuai Tao. (alphabetical order)    
 Under **Major Revision** at **Information and Computation**.    
