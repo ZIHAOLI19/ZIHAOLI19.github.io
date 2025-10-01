@@ -10,7 +10,7 @@ Journal Papers
 
 Fully Online Matching with Stochastic Arrivals and Departures.    
 **Zihao Li**, Hao Wang, Zhenzhen Yan. (alphabetical order)   
-Accepted by **Operations Research**, 2025 (forthcoming).
+Accepted by **Operations Research**, 2025 (forthcoming).     
 **Note**: Preliminary version is accepted as a full paper by **Thirty-Seventh AAAI Conference on Artificial Intelligence** (AAAI-23).     
 
 Appointment Scheduling with Sequential Servers using Distributionally Robust Optimization.   
