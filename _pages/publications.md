@@ -8,9 +8,14 @@ author_profile: true
 Journal Papers
 ======
 
+Fully Online Matching with Stochastic Arrivals and Departures.    
+**Zihao Li**, Hao Wang, Zhenzhen Yan. (alphabetical order)   
+Accepted by **Operations Research**, 2025 (forthcoming).
+**Note**: Preliminary version is accepted as a full paper by **Thirty-Seventh AAAI Conference on Artificial Intelligence** (AAAI-23).     
+
 Appointment Scheduling with Sequential Servers using Distributionally Robust Optimization.   
 You Hui Goh, **Zihao Li**, Zhenzhen Yan. (alphabetical order)   
-Accepted by **Manufacturing & Service Operations Management**, 2025 (forthcoming).    
+Accepted by **Manufacturing & Service Operations Management**, 2025.    
 
 Fair Division of Mixed Divisible and Indivisible Goods.    
 Xiaohui Bei, **Zihao Li**, Jinyan Liu, Shengxin Liu, Xinhang Lu. (alphabetical order)    
@@ -48,11 +53,7 @@ Accepted as a full paper by **19th Conference on Web and Internet Economics** (W
 
 Truthful Fair Mechanisms for Allocating Mixed Divisible and Indivisible Goods.    
 **Zihao Li**, Shengxin Liu, Xinhang Lu, Biaoshuai Tao. (alphabetical order)    
-Accepted as a full paper by **Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence** (IJCAI-23).    
-
-Fully Online Matching with Stochastic Arrivals and Departures.    
-**Zihao Li**, Hao Wang, Zhenzhen Yan. (alphabetical order)    
-Accepted as a full paper by **Thirty-Seventh AAAI Conference on Artificial Intelligence** (AAAI-23).      
+Accepted as a full paper by **Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence** (IJCAI-23).        
 
 Fair Division with Prioritized Agents.    
 Xiaolin Bu, **Zihao Li**, Shengxin Liu, Jiaxin Song, Biaoshuai Tao. (alphabetical order)    
@@ -67,11 +68,7 @@ Proportional Allocation of Indivisible Resources under Ordinal and Uncertain Pre
 Accepted by **38th Conference on Uncertainty in Artificial Intelligence** (UAI 2022). PMLR, 2022: 1148-1157.
 
 Working Papers
-======
-
-A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals and Departures.    
-**Zihao Li**, Hao Wang, Zhenzhen Yan. (alphabetical order)      
-Under **Minor Revision** at **Operations Research**.     
+======  
 
 Fair and Efficient Multi-Resource Allocation for Cloud Computing.      
 Xiaohui Bei, **Zihao Li**, Junjie Luo. (alphabetical order)      
