@@ -14,9 +14,9 @@ Accepted by **Operations Research**, 2025 (forthcoming).
 **Note**: Preliminary version is accepted as a full paper by **Thirty-Seventh AAAI Conference on Artificial Intelligence** (AAAI-23).     
 
 Appointment Scheduling with Sequential Servers using Distributionally Robust Optimization.  
-You Hui Goh, **Zihao Li**<sup>*</sup>, Zhenzhen Yan. (alphabetical order)  
+You Hui Goh, **Zihao Li**<sup>&#42;</sup>, Zhenzhen Yan. (alphabetical order)  
 Accepted by **Manufacturing & Service Operations Management**, 2025.  
-<sup>*</sup> Corresponding author
+<sup>&#42;</sup> Corresponding author
 
 Fair Division of Mixed Divisible and Indivisible Goods.    
 Xiaohui Bei, **Zihao Li**, Jinyan Liu, Shengxin Liu, Xinhang Lu. (alphabetical order)    
