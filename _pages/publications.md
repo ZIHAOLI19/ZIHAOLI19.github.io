@@ -13,10 +13,10 @@ Fully Online Matching with Stochastic Arrivals and Departures.
 Accepted by **Operations Research**, 2025 (forthcoming).     
 **Note**: Preliminary version is accepted as a full paper by **Thirty-Seventh AAAI Conference on Artificial Intelligence** (AAAI-23).     
 
-Appointment Scheduling with Sequential Servers using Distributionally Robust Optimization.   
-You Hui Goh, **Zihao Li**\*, Zhenzhen Yan. (alphabetical order)   
-Accepted by **Manufacturing & Service Operations Management**, 2025.     
-\* Corresponding author     
+Appointment Scheduling with Sequential Servers using Distributionally Robust Optimization.  
+You Hui Goh, **Zihao Li**$^{*}$, Zhenzhen Yan. (alphabetical order)  
+Accepted by **Manufacturing & Service Operations Management**, 2025.  
+$^{*}$ Corresponding author
 
 Fair Division of Mixed Divisible and Indivisible Goods.    
 Xiaohui Bei, **Zihao Li**, Jinyan Liu, Shengxin Liu, Xinhang Lu. (alphabetical order)    
